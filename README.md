@@ -5,8 +5,8 @@
 
  ## Features:
  <ul>
-<h3><strong>-Generate Strong and secure Random passwords</strong><br>
-<strong>-Encrypt the passwords using hashing(sha-1+ salt)</strong><br>
+ <h3><strong>-<a href="https://github.com/Noor-Ahmed-12/Password-Manager/blob/748da9e2cb65fe03e5cdfc27746ad70c84746414/src/PasswordGenerator.java">Generate Strong and secure Random passwords</a></strong><br>
+<strong>-Encrypt passwords using advanced hashing Algorithm(sha-1+ salt)</strong><br>
 <strong>-Allow to stores acounts passowrds</strong><br>
 <strong>-Allow to search stored acount passowrds</strong><br>
 <strong>-Allow to delete stored acount passowrds</strong><br></h3>
