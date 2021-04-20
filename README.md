@@ -13,8 +13,7 @@
  </ul>
 
 
-## :small_blue_diamond:Wanna try this?
-### check out the <a href="https://github.com/Noor-Ahmed-12/PasswordManager/blob/7b9f39e5f02feea53a4a1a9508f8d149d97304bc/Project%20Password%20Manager.jar">jar file</a>
+## :small_blue_diamond:Wanna try this? ### check out the <a href="https://github.com/Noor-Ahmed-12/PasswordManager/blob/7b9f39e5f02feea53a4a1a9508f8d149d97304bc/Project%20Password%20Manager.jar">jar file</a>
 
 
 
@@ -26,8 +25,8 @@ Security is a major worry in this inventive tech world. Consistently millions of
 (comming soon)](https://www.youtube.com/channel/UCjL6YmenQdWJ2zM-spMUb4w)
 
 
-## Developer 👨‍💻: <a href="https://github.com/Noor-Ahmed-12">Noor Ahmed Shaikh</a>
-I developed Password Manager in Java using hashtable-Data structure and Algorithm
+## 👨‍💻Developer:<a href="https://github.com/Noor-Ahmed-12">Noor Ahmed Shaikh</a>
+### I developed Password Manager in Java using hashtable-Data structure and Algorithm
 
 
 ## :small_blue_diamond:You can Contribute in it!
