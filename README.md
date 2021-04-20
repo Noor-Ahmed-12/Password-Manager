@@ -22,7 +22,9 @@ Security is a major worry in this inventive tech world. Consistently millions of
 
 
 ## :movie_camera:You can check the complete working of this project in my video on my YouTube Channel :
-<a href="https://www.youtube.com/channel/UCjL6YmenQdWJ2zM-spMUb4w" target="_blank"><img src = "https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" align="center"></a>
+<p align="center">
+<a href="https://www.youtube.com/channel/UCjL6YmenQdWJ2zM-spMUb4w" target="_blank"><img src = "https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"></a>
+</p>
 
 
 ## 👨‍💻Developer:<a href="https://github.com/Noor-Ahmed-12">Noor Ahmed Shaikh</a>
