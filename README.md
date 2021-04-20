@@ -28,10 +28,10 @@ Security is a major worry in this inventive tech world. Consistently millions of
 
 ## Developer
 I developed Password Manager in Java using hashtable-Data structure and Algorithm
-<br>
-👋Developer:Noor Ahmed Shaikh
 
-<br>
+### 👨‍💻 Developer:Noor Ahmed Shaikh
+
+
 ## :small_blue_diamond:You can Contribute in it!
 You can improve this Password Manager in Java with new creative ideas to make it more secure.
 
