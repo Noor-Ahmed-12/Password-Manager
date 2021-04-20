@@ -1,5 +1,6 @@
-# Password Manager
+       
 <p align="center">
+ <h1>Password Manager</h1>
 <img src = "https://images.pexels.com/photos/3868576/pexels-photo-3868576.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
 </p>
 
@@ -10,7 +11,7 @@
 <strong>-<a href="https://github.com/Noor-Ahmed-12/Password-Manager/blob/3f2fda55adc038bd96a3891b320a4a072487e729/src/HashtablePassword.java">Allow to stores acounts passowrds</a></strong><br>
   <strong>-<a href="https://github.com/Noor-Ahmed-12/Password-Manager/blob/3f2fda55adc038bd96a3891b320a4a072487e729/src/HashtablePassword.java">Allow to search stored acount passowrds</a></strong><br>
  <strong>-<a href="https://github.com/Noor-Ahmed-12/Password-Manager/blob/3f2fda55adc038bd96a3891b320a4a072487e729/src/HashtablePassword.java">
-  Allow to delete stored acount passowrds</a></strong><br></h3>
+ Allow to delete stored acount passowrds</a></strong><br></h3>
  </ul>
 
 ## :small_blue_diamond:Wanna try this?
