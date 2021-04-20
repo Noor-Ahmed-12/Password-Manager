@@ -5,18 +5,15 @@
 
  ## Features:
  <ul>
- <h3><strong>-<a href="https://github.com/Noor-Ahmed-12/Password-Manager/blob/748da9e2cb65fe03e5cdfc27746ad70c84746414/src/PasswordGenerator.java">Generate Strong and secure Random passwords</a></strong><br>
+ <h3><li><strong>-<a href="https://github.com/Noor-Ahmed-12/Password-Manager/blob/748da9e2cb65fe03e5cdfc27746ad70c84746414/src/PasswordGenerator.java">Generate Strong and secure Random passwords</a></strong></li><br>
 <strong>-<a href="https://github.com/Noor-Ahmed-12/Password-Manager/blob/3f2fda55adc038bd96a3891b320a4a072487e729/src/passwordEncryption.java">Encrypt passwords using advanced hashing Algorithm(sha-1+ salt)</a></strong><br>
 <strong>-<a href="https://github.com/Noor-Ahmed-12/Password-Manager/blob/3f2fda55adc038bd96a3891b320a4a072487e729/src/HashtablePassword.java">Allow to stores acounts passowrds</a></strong><br>
   <strong>-<a href="https://github.com/Noor-Ahmed-12/Password-Manager/blob/3f2fda55adc038bd96a3891b320a4a072487e729/src/HashtablePassword.java">Allow to search stored acount passowrds</a></strong><br>
- <strong>-<a href="https://github.com/Noor-Ahmed-12/Password-Manager/blob/3f2fda55adc038bd96a3891b320a4a072487e729/src/HashtablePassword.java">
- Allow to delete stored acount passowrds</a></strong><br></h3>
+ <strong>-<a href="https://github.com/Noor-Ahmed-12/Password-Manager/blob/3f2fda55adc038bd96a3891b320a4a072487e729/src/HashtablePassword.java">Allow to delete stored acount passowrds</a></strong><br></h3>
  </ul>
 
 <br>
-
-## :small_blue_diamond:Wanna try this?
-check out the <a href="https://github.com/Noor-Ahmed-12/Password-Manager/blob/7b9f39e5f02feea53a4a1a9508f8d149d97304bc/Project%20Password%20Manager.jar">jar file</a>
+## :small_blue_diamond:Wanna try this?check out the <a href="https://github.com/Noor-Ahmed-12/PasswordManager/blob/7b9f39e5f02feea53a4a1a9508f8d149d97304bc/Project%20Password%20Manager.jar">jar file</a>
 
 <br>
 
