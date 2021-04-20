@@ -14,8 +14,7 @@
 
 
 ## :small_blue_diamond:Wanna try this?
-# :check out the
-<a href="https://github.com/Noor-Ahmed-12/PasswordManager/blob/7b9f39e5f02feea53a4a1a9508f8d149d97304bc/Project%20Password%20Manager.jar">jar file</a>
+### :check out the <a href="https://github.com/Noor-Ahmed-12/PasswordManager/blob/7b9f39e5f02feea53a4a1a9508f8d149d97304bc/Project%20Password%20Manager.jar">jar file</a>
 
 
 <br>
