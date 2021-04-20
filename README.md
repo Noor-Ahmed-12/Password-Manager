@@ -12,13 +12,13 @@
 <li><strong><a href="https://github.com/Noor-Ahmed-12/Password-Manager/blob/3f2fda55adc038bd96a3891b320a4a072487e729/src/HashtablePassword.java">🗑Allow to delete stored acount passowrds</a></strong></li><br></h3>
  </ul>
 
-<br>
+
 ## :small_blue_diamond:Wanna try this?
-# check out the
+# :check out the
 <a href="https://github.com/Noor-Ahmed-12/PasswordManager/blob/7b9f39e5f02feea53a4a1a9508f8d149d97304bc/Project%20Password%20Manager.jar">jar file</a>
 
-<br>
 
+<br>
  ## :page_facing_up:Project Descripttion
 Security is a major worry in this inventive tech world. Consistently millions of organizations and individual lose their private credentials due to a lack of security awareness. we can rely on third party software they may not be confidential with us . That can be extremely risky because nobody wants that anybody to brutal his/her privacy.An awful individual can easily break your weak password, so don’t do this sort of misstep!
 <br>
