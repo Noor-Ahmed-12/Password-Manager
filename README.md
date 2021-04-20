@@ -22,18 +22,18 @@ Security is a major worry in this inventive tech world. Consistently millions of
 
 
 ## :movie_camera:You can check the complete working of this project in my video on my YouTube Channel :
-(comming soon)](https://www.youtube.com/channel/UCjL6YmenQdWJ2zM-spMUb4w)
+<a href="https://www.youtube.com/channel/UCjL6YmenQdWJ2zM-spMUb4w"><img src = "https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"></a>
 
 
 ## 👨‍💻Developer:<a href="https://github.com/Noor-Ahmed-12">Noor Ahmed Shaikh</a>
 ### I developed Password Manager in Java using hashtable-Data structure and Algorithm
 
 
-## :small_blue_diamond:You can Contribute in it!
+## 🤝You can Contribute in it!
 ### You can improve this Password Manager in Java with new creative ideas to make it more secure.
 
 
-## connect with me for more amazing tools:
+## :small_blue_diamond:connect with me for more amazing tools:
 [<img align="left" alt="Noor Ahmed Shaikh | blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Noor Ahmed Shaikh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Noor Ahmed Shaikh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
