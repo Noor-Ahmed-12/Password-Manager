@@ -23,7 +23,7 @@ Security is a major worry in this inventive tech world. Consistently millions of
 
 ## :movie_camera:You can check the complete working of this project in my video on my YouTube Channel :
 <p align="center">
-<a href="https://www.youtube.com/channel/UCjL6YmenQdWJ2zM-spMUb4w" target="_blank"><img src = "https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"></a>
+<a href="https://www.youtube.com/watch?v=8LhfDjcXBnU" target="_blank"><img src = "https://github.com/Noor-Ahmed-12/Password-Manager/blob/66ea73dfc6be412117807649769b3dfe0f214021/img/password%20Manager.png"></a>
 </p>
 
 
