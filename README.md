@@ -1,6 +1,6 @@
 <h1 align="center">Password Manager</h1>
 <p align="center">
-<img src = "https://images.pexels.com/photos/3868576/pexels-photo-3868576.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
+<img src = "https://github.com/Noor-Ahmed-12/Password-Manager/blob/66ea73dfc6be412117807649769b3dfe0f214021/img/password%20Manager.png">
 </p>
 
  ## Features:
