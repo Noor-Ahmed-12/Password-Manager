@@ -21,9 +21,9 @@
 Security is a major worry in this inventive tech world. Consistently millions of organizations and individual lose their private credentials due to a lack of security awareness. we can rely on third party software they may not be confidential with us . That can be extremely risky because nobody wants that anybody to brutal his/her privacy.An awful individual can easily break your weak password, so don’t do this sort of misstep!
 
 
-## :movie_camera:You can check the complete working of this project in my video on my YouTube Channel :
+## :movie_camera:You can check the complete working of this project in my YouTube Channel video :
 <p align="center">
-<a href="https://www.youtube.com/watch?v=8LhfDjcXBnU" target="_blank"><img src = "https://github.com/Noor-Ahmed-12/Password-Manager/blob/66ea73dfc6be412117807649769b3dfe0f214021/img/password%20Manager.png"></a>
+<a href="https://www.youtube.com/watch?v=8LhfDjcXBnU" target="_blank"><img src = "https://img.icons8.com/nolan/2x/youtube-music.png"></a>
 </p>
 
 
