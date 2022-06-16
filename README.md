@@ -36,13 +36,12 @@ Security is a major worry in this inventive tech world. Consistently millions of
 
 
 ## :small_blue_diamond:connect with me for more amazing tools:
-[<img align="left" alt="Noor Ahmed Shaikh | blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Noor Ahmed Shaikh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Noor Ahmed Shaikh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Noor Ahmed Shaikh | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Noor Ahmed Shaikh | youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]<br>
 
-[website]: https://technicalfaraz.com/author/noor_ahmed/
+
 [instagram]: https://www.instagram.com/noor_ahmed_shykh/
 [facebook]: https://web.facebook.com/profile.php?id=100010125183183/
 [linkedin]: https://www.linkedin.com/in/noor-ahmed-shaikh-2989691b4/
